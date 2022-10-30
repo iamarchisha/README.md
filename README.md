@@ -18,9 +18,9 @@
 Most of my research is dedicated towards solving applications in media and entertainment industry along with data science solutions to finance industry. -->
 
 ## Links
-- My Work: [Resume/CV](https://iamarchisha.github.io/ArchishaChandel_CV.pdf) 
-<!-- - Twitter: [@iamXXVI](https://twitter.com/iamXXVI) -->
+- My Work: [Resume/CV](https://iamarchisha.github.io/ArchishaChandel_CV.pdf)
 - Personal Blog: [iamarchisha.github.io](https://iamarchisha.github.io)
+<!-- - Twitter: [@iamXXVI](https://twitter.com/iamXXVI) -->
 <!-- 
 ## Happening these days
 - 🔭 I’m currently working on building a Smart Video Analytics Platform
