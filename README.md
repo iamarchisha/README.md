@@ -11,7 +11,7 @@
 
 🏔 In my free time, you can find me either swimming or hiking.
 
-💪🏽 Data Science solution pipeline planning, Computer Vision Research, Deep Learning architecture improving, Mentoring
+💪🏽 Data Science solution pipeline planning, Computer Vision Research, Deep Learning architecture improving, Mentoring.
 
 <!-- ## :nerd_face: Research :thinking:
 
