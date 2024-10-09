@@ -1,15 +1,15 @@
 ### Hi there 👋
-👋🏽 Hi, my name is Archisha, which is a Sanskrit word derived from the Vedas and it translates to - intensity of sun rays. 
+👋🏽 Hi, my name is Archisha, which is a Sanskrit word derived from the Vedas and it translates to - intensity of sun rays.
 
-🎓 Grad with a Bachelor's of Engineering in Computer Engineering.
+🎓 Pursuing Masters in Management at ESCP Business School, Paris.
 
-🌇 Mumbai Native, with a passion for generative models in computer vision.
+🌇 Mumbai Native, with a passion for generative models in computer vision and innovative business strategies.
 
-📚 I have worked on synthetic data generation, product promotion optimization, built solution for TV content compliance using Deep Learning, customer segmentation and price optimization that helped businesses grow. I have extensive experience with Git, Python, TensorFlow, PySpark and AWS Sage Maker.
+📚 I am working on launching a business in France. I have a background in Data Science. I have extensive experience with Git, Python, TensorFlow, PySpark and AWS Sage Maker.
 
-💻 As for my future, I hope to one day work as Researcher at Google Brain and work with a diverse team of great minds in the field of Computer Vision.
+💻 As for my future, I hope to work on something that brings a change in the world making it a slightly better place.
 
-🏔 In my free time, you can find me either swimming or hiking.
+🏔 In my free time, you can find me either swimming, hiking or practicing yoga.
 
 💪🏽 Data Science solution pipeline planning, Computer Vision Research, Deep Learning architecture improving, Mentoring.
 
